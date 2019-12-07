@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="main" value="public static void main(String[] args){&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="Sysout" value="System.out.println();" description="println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
